@@ -1,5 +1,5 @@
-const sal = number(prumpt("Digite o Salario"))
-const pcs = number(prumpt("Digite a porcentagem do aumento em inteiros(sem %)"))
+const sal = number(prompt("Digite o Salario"))
+const pcs = number(prompt("Digite a porcentagem do aumento em inteiros(sem %)"))
 
 
 
